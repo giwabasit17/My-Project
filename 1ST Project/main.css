@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+  font-size: 2rem;
+}
+html {
+  font-size: 27px;
+}
+
+body {
+  background-color: #239;
+  color: whitesmoke;
+}
+a {
+  color: aliceblue;
+}
+
+a:visited {
+  color: lightgray;
+}
+
+figcaption {
+  color: yellowgreen;
+}
+
+a :hover a :active {
+  color: #eee;
+}
+nav {
+  color: yellow;
+}
+
+table,
+th,
+tr,
+td,
+caption {
+  color: gold;
+  border: 1px solid snow;
+  font-family: "Courier New", Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
+
+dl {
+  color: black;
+  border: 2px dashed, dotted, solid wheat;
+}
